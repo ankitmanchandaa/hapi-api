@@ -13,7 +13,7 @@
   "author": "Ankit Manchanda",
   "license": "ISC",
   "dependencies": {
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "hapi": "^17.8.5",
     "hapi-pino": "^4.0.4",
     "inert": "^5.1.0",
